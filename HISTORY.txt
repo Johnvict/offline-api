@@ -1,0 +1,5 @@
+$ npm init
+$ npm install --save express express-handlebars mysql body-parser
+$ npm install --save-dev nodemon
+
+$ npm i bcrypt jsonwebtoken passport passport-jwt
